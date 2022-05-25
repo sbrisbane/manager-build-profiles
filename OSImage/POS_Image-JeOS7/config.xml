@@ -88,7 +88,6 @@
         <package name="xfsprogs"/>              <!-- can be optionaly removed if XFS will not be used -->
         <package name="busybox"/>               <!-- this is needed if tftp is used for background image downloading -->
         <package name="bind-utils"/>
-        <package name="kiwi-tools"/>
         <package name="dosfstools"/>
     </packages>
     <packages type="bootstrap">
